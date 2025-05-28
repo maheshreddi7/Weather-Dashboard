@@ -1,19 +1,10 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+The Weather-Dashboard project is a web application that provides weather and cryptocurrency information. It allows users to view the current weather conditions and cryptocurrency prices.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Main Function Points
+Displays current weather information for a user-specified location
+Displays current cryptocurrency prices for popular cryptocurrencies
+Provides a user-friendly interface for accessing weather and cryptocurrency data
+Technology Stack
+HTML, CSS, and JavaScript for the front-end development
+Vite.js as the build tool and development server
+Utilizes APIs to fetch weather and cryptocurrency data
